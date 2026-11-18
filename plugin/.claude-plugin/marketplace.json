@@ -1,0 +1,14 @@
+{
+  "name": "nimbus-campus-marketplace",
+  "description": "Local coursework marketplace for the Campus Helpdesk plugin.",
+  "owner": {
+    "name": "Student Assignment Project"
+  },
+  "plugins": [
+    {
+      "name": "campus-helpdesk",
+      "source": "./plugins/campus-helpdesk",
+      "description": "Campus helpdesk Skill, hook, slash command and mock-data MCP server."
+    }
+  ]
+}

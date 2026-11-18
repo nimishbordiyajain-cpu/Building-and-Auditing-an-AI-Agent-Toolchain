@@ -1,0 +1,16 @@
+{
+  "description": "Blocks writes and edits inside the plugin's protected data/official directory.",
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"${CLAUDE_PLUGIN_ROOT}/hooks/scripts/protect_data.py\""
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+COMMAND: npm view @nimbus/mcp-skill-bridge@2.3 version
+RESULT: Command timed out after 60 seconds in this environment.
+INTERPRETATION: Network/DNS access was unavailable. This is NOT evidence that the package does not exist. Status remains Unverified.
+NEXT STEP: Run the same command from a network-enabled terminal and save its exact output.

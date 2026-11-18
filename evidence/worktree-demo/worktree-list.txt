@@ -1,0 +1,4 @@
+/mnt/data/campus-helpdesk-worktree-demo-final/repo                c89ce0e [main]
+/mnt/data/campus-helpdesk-worktree-demo-final/campus-hook-path    be93e86 [bugfix/hook-path]
+/mnt/data/campus-helpdesk-worktree-demo-final/campus-mcp-server   ba36447 [feature/mcp-server]
+/mnt/data/campus-helpdesk-worktree-demo-final/campus-skill-tests  c78f52c [feature/skill-tests]

@@ -1,0 +1,16 @@
+batch,day,start_time,end_time,subject,room,faculty
+CSE-JB-2025,Monday,09:00,10:00,Python Programming,Lab 2,Dr Mehta
+CSE-JB-2025,Monday,10:15,11:15,Data Structures,Room 204,Prof Shah
+CSE-JB-2025,Monday,11:30,12:30,Database Management Systems,Room 105,Prof Rao
+CSE-JB-2025,Tuesday,09:00,10:00,Computer Networks,Room 203,Prof Iyer
+CSE-JB-2025,Tuesday,10:15,11:15,Web Development,Lab 1,Ms Patel
+CSE-JB-2025,Tuesday,11:30,12:30,Mathematics,Room 101,Dr Jain
+CSE-JB-2025,Wednesday,09:00,10:00,Operating Systems,Room 202,Prof Shah
+CSE-JB-2025,Wednesday,10:15,11:15,Python Programming,Lab 2,Dr Mehta
+CSE-JB-2025,Wednesday,11:30,12:30,Communication Skills,Room 110,Ms Khan
+CSE-JB-2025,Thursday,09:00,10:00,Database Management Systems,Room 105,Prof Rao
+CSE-JB-2025,Thursday,10:15,11:15,Computer Networks,Room 203,Prof Iyer
+CSE-JB-2025,Thursday,11:30,12:30,Web Development,Lab 1,Ms Patel
+CSE-JB-2025,Friday,09:00,10:00,Data Structures,Room 204,Prof Shah
+CSE-JB-2025,Friday,10:15,11:15,Operating Systems,Room 202,Prof Shah
+CSE-JB-2025,Friday,11:30,12:30,Mathematics,Room 101,Dr Jain

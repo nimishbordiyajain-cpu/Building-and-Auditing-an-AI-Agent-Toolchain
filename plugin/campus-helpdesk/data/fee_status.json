@@ -1,0 +1,17 @@
+{
+  "STU101": {
+    "status": "Paid",
+    "amount_due_inr": 0,
+    "note": "Mock record for assignment"
+  },
+  "STU102": {
+    "status": "Pending",
+    "amount_due_inr": 12500,
+    "note": "Mock record for assignment"
+  },
+  "STU103": {
+    "status": "Partially Paid",
+    "amount_due_inr": 5000,
+    "note": "Mock record for assignment"
+  }
+}

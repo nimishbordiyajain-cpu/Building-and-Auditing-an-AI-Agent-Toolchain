@@ -1,0 +1,12 @@
+Verified in the generated project environment:
+- Python timetable helper unit tests: 5 passed.
+- JSON syntax: all project JSON files parsed successfully.
+- Protected-folder hook: simulated protected path was denied; ordinary path produced no deny decision.
+- Git worktree practical: three linked worktrees were created; each workstream made a change; a real merge conflict was created and manually resolved; list and history graph were saved.
+
+Not verified in this environment:
+- MCP SDK install/server runtime/MCP Inspector: package installation blocked by DNS/network failure.
+- Claude Code plugin validation, marketplace installation, plugin list/details and uninstall: Claude Code CLI was not available here.
+- Automatic Skill triggering in Claude Code: requires the target agent.
+- Public npm package check: npm view command timed out due network/DNS restrictions. Do not claim package absence.
+No screenshots, JSON-RPC execution traces, or successful external installs are fabricated.

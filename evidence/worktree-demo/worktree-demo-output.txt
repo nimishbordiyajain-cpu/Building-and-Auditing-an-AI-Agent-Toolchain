@@ -1,0 +1,25 @@
+WORKTREE LIST:
+/mnt/data/campus-helpdesk-worktree-demo-final/repo                c89ce0e [main]
+/mnt/data/campus-helpdesk-worktree-demo-final/campus-hook-path    be93e86 [bugfix/hook-path]
+/mnt/data/campus-helpdesk-worktree-demo-final/campus-mcp-server   ba36447 [feature/mcp-server]
+/mnt/data/campus-helpdesk-worktree-demo-final/campus-skill-tests  c78f52c [feature/skill-tests]
+
+SECOND MERGE EXIT CODE: 1
+CONFLICT OUTPUT:
+Auto-merging conflict-demo.txt
+CONFLICT (content): Merge conflict in conflict-demo.txt
+Automatic merge failed; fix conflicts and then commit the result.
+
+RESOLVED FILE:
+owner=skill-tests+mcp-server
+
+HISTORY GRAPH:
+* be93e86 (bugfix/hook-path) Add hook path workstream note
+| *   c89ce0e (HEAD -> main) Resolve worktree merge conflict
+| |\  
+| | * ba36447 (feature/mcp-server) Change owner in mcp-server
+| |/  
+|/|   
+| * c78f52c (feature/skill-tests) Change owner in skill-tests
+|/  
+* 83e7e28 Add conflict demo base

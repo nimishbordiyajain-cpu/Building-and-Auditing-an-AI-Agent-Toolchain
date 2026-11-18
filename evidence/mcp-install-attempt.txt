@@ -1,0 +1,4 @@
+COMMAND: python -m pip install -r mcp-server/requirements.txt
+RESULT: Failed because this execution environment could not resolve the package index hostname (temporary DNS failure).
+INTERPRETATION: The MCP SDK was not installed here, so the MCP server and Inspector were not executed. This is an environment limitation, not a successful test.
+NEXT STEP: Run the install command on the student's Mac with internet access, then test with MCP Inspector.

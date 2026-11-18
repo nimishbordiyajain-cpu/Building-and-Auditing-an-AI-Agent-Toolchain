@@ -1,0 +1,12 @@
+{
+  "name": "campus-helpdesk",
+  "displayName": "Campus Helpdesk",
+  "version": "1.0.0",
+  "description": "A student helpdesk plugin with a timetable Skill, protected-data hook, slash command, and local mock-data MCP server.",
+  "author": {
+    "name": "Student Assignment Project"
+  },
+  "license": "MIT",
+  "hooks": "./hooks/hooks.json",
+  "mcpServers": "./.mcp.json"
+}

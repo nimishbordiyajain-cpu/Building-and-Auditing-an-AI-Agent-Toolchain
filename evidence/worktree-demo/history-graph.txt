@@ -1,0 +1,9 @@
+* be93e86 (bugfix/hook-path) Add hook path workstream note
+| *   c89ce0e (HEAD -> main) Resolve worktree merge conflict
+| |\  
+| | * ba36447 (feature/mcp-server) Change owner in mcp-server
+| |/  
+|/|   
+| * c78f52c (feature/skill-tests) Change owner in skill-tests
+|/  
+* 83e7e28 Add conflict demo base
